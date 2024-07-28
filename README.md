@@ -1,4 +1,4 @@
-![logo](https://github.com/manicodes2006/GitHubManish/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/manicodes2006/manicodes2006/blob/main/MANISH%20KUMAR.png)
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
